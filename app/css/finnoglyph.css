@@ -1,0 +1,1115 @@
+/* finnoglyph version : 2.21
+author: vinay
+imported by: Monica
+imported date: 12-03-2020 */
+@font-face {
+  font-family: 'finno';
+  src: url(../fonts/finno.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+i, .icomoon-liga {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'finno' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  
+  /* Enable Ligatures ================ */
+  letter-spacing: 0;
+  -webkit-font-feature-settings: "liga";
+  -moz-font-feature-settings: "liga=1";
+  -moz-font-feature-settings: "liga";
+  -ms-font-feature-settings: "liga" 1;
+  font-feature-settings: "liga";
+  -webkit-font-variant-ligatures: discretionary-ligatures;
+  font-variant-ligatures: discretionary-ligatures;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icic_aadhaar-back:before {
+  content: "\e900";
+}
+.icic_aadhaar-front:before {
+  content: "\e901";
+}
+.icic_aadhaar:before {
+  content: "\e902";
+}
+.icic_aadhaar4:before {
+  content: "\e903";
+}
+.icic_acc_no1:before {
+  content: "\e904";
+}
+.icic_acc_no2:before {
+  content: "\e905";
+}
+.icic_back:before {
+  content: "\e906";
+}
+.icic_bank_name:before {
+  content: "\e907";
+}
+.icic_bank:before {
+  content: "\e908";
+}
+.icic_bday:before {
+  content: "\e909";
+}
+.icic_bottom:before {
+  content: "\e90a";
+}
+.icic_branch:before {
+  content: "\e90b";
+}
+.icic_branch2:before {
+  content: "\e90c";
+}
+.icic_broken:before {
+  content: "\e90d";
+}
+.icic_building:before {
+  content: "\e90e";
+}
+.icic_building2:before {
+  content: "\e90f";
+}
+.icic_bulb:before {
+  content: "\e910";
+}
+.icic_bulb2:before {
+  content: "\e911";
+}
+.icic_calc:before {
+  content: "\e912";
+}
+.icic_check_n:before {
+  content: "\e913";
+}
+.icic_check_y:before {
+  content: "\e914";
+}
+.icic_check1:before {
+  content: "\e915";
+}
+.icic_check2:before {
+  content: "\e916";
+}
+.icic_city:before {
+  content: "\e917";
+}
+.icic_clock:before {
+  content: "\e918";
+}
+.icic_close:before {
+  content: "\e919";
+}
+.icic_contact:before {
+  content: "\e91a";
+}
+.icic_email:before {
+  content: "\e91b";
+}
+.icic_email2:before {
+  content: "\e91c";
+}
+.icic_enter:before {
+  content: "\e91d";
+}
+.icic_error:before {
+  content: "\e91e";
+}
+.icic_esign:before {
+  content: "\e91f";
+}
+.icic_experience:before {
+  content: "\e920";
+}
+.icic_experience2:before {
+  content: "\e921";
+}
+.icic_faq:before {
+  content: "\e922";
+}
+.icic_friend-family:before {
+  content: "\e923";
+}
+.icic_gender:before {
+  content: "\e924";
+}
+.icic_id:before {
+  content: "\e925";
+}
+.icic_ifsc:before {
+  content: "\e926";
+}
+.icic_joining_date:before {
+  content: "\e927";
+}
+.icic_kb1:before {
+  content: "\e928";
+}
+.icic_kb2:before {
+  content: "\e929";
+}
+.icic_kb3:before {
+  content: "\e92a";
+}
+.icic_kb4:before {
+  content: "\e92b";
+}
+.icic_left:before {
+  content: "\e92c";
+}
+.icic_link:before {
+  content: "\e92d";
+}
+.icic_location:before {
+  content: "\e92e";
+}
+.icic_marital:before {
+  content: "\e92f";
+}
+.icic_mobile:before {
+  content: "\e930";
+}
+.icic_mobile2:before {
+  content: "\e931";
+}
+.icic_monthly_sal:before {
+  content: "\e932";
+}
+.icic_office_id:before {
+  content: "\e933";
+}
+.icic_otp:before {
+  content: "\e934";
+}
+.icic_pan:before {
+  content: "\e935";
+}
+.icic_pdf:before {
+  content: "\e936";
+}
+.icic_pending:before {
+  content: "\e937";
+}
+.icic_personal_info:before {
+  content: "\e938";
+}
+.icic_phone2:before {
+  content: "\e939";
+}
+.icic_pincode:before {
+  content: "\e93a";
+}
+.icic_position:before {
+  content: "\e93b";
+}
+.icic_qr:before {
+  content: "\e93c";
+}
+.icic_radio_n:before {
+  content: "\e93d";
+}
+.icic_radio_y:before {
+  content: "\e93e";
+}
+.icic_refer:before {
+  content: "\e93f";
+}
+.icic_right:before {
+  content: "\e940";
+}
+.icic_rupee:before {
+  content: "\e941";
+}
+.icic_search:before {
+  content: "\e942";
+}
+.icic_security:before {
+  content: "\e943";
+}
+.icic_selfie:before {
+  content: "\e944";
+}
+.icic_settings1:before {
+  content: "\e945";
+}
+.icic_settings2:before {
+  content: "\e946";
+}
+.icic_state:before {
+  content: "\e947";
+}
+.icic_stop:before {
+  content: "\e948";
+}
+.icic_success:before {
+  content: "\e949";
+}
+.icic_surname:before {
+  content: "\e94a";
+}
+.icic_tab_loans:before {
+  content: "\e94b";
+}
+.icic_tab_repay:before {
+  content: "\e94c";
+}
+.icic_tab_user:before {
+  content: "\e94d";
+}
+.icic_top:before {
+  content: "\e94e";
+}
+.icic_upload_doc:before {
+  content: "\e94f";
+}
+.icic_user:before {
+  content: "\e950";
+}
+.icic_user2:before {
+  content: "\e951";
+}
+.icic_workplace:before {
+  content: "\e952";
+}
+.icic_basket:before {
+  content: "\e953";
+}
+.icic_refer2:before {
+  content: "\e954";
+}
+.icic_tracking:before {
+  content: "\e955";
+}
+.icic_referral:before {
+  content: "\e956";
+}
+.icic_aadhaar5:before {
+  content: "\e957";
+}
+.icic_passport2:before {
+  content: "\e958";
+}
+.icic_voterid:before {
+  content: "\e959";
+}
+.icic_dl:before {
+  content: "\e95a";
+}
+.icic_passbook:before {
+  content: "\e95b";
+}
+.icic_rationcard:before {
+  content: "\e95c";
+}
+.icic_additional_page:before {
+  content: "\e95d";
+}
+.icic_smal_tick-3:before {
+  content: "\e95e";
+}
+.icic_small_error:before {
+  content: "\e95f";
+}
+.icic_lock:before {
+  content: "\e960";
+}
+.icic_lock2:before {
+  content: "\e961";
+}
+.icic_edit:before {
+  content: "\e962";
+}
+.iciconfinder_09-google_843776:before {
+  content: "\e963";
+}
+.iciconfinder_09-google_843765:before {
+  content: "\e964";
+}
+.iciconfinder_06-facebook_104498:before {
+  content: "\e965";
+}
+.iciconfinder_46-facebook_104458:before {
+  content: "\e966";
+}
+.iciconfinder_Facebook_1298738:before {
+  content: "\e967";
+}
+.iciconfinder_03-twitter_104501:before {
+  content: "\e968";
+}
+.iciconfinder_43-twitter_104461:before {
+  content: "\e969";
+}
+.iciconfinder_38-instagram_104466:before {
+  content: "\e96a";
+}
+.iciconfinder_38-instagram_1161953:before {
+  content: "\e96b";
+}
+.iciconfinder_78-instagram_104425:before {
+  content: "\e96c";
+}
+.iciconfinder_social_linked_in_710289:before {
+  content: "\e96d";
+}
+.iciconfinder_51-linkedin_104452:before {
+  content: "\e96e";
+}
+.iciconfinder_linkedin_246593:before {
+  content: "\e96f";
+}
+.iciconfinder_16-apple_104490:before {
+  content: "\e970";
+}
+.iciconfinder_youtube_317714:before {
+  content: "\e971";
+}
+.icic_flipkart:before {
+  content: "\e972";
+}
+.iciconfinder_Amazon_367572:before {
+  content: "\e973";
+}
+.iciconfinder_27-amazon_104477:before {
+  content: "\e974";
+}
+.icic_copy2:before {
+  content: "\e975";
+}
+.icic_emi:before {
+  content: "\e976";
+}
+.icic_evoucher:before {
+  content: "\e977";
+}
+.icic_medal:before {
+  content: "\e978";
+}
+.icic_active:before {
+  content: "\e979";
+}
+.iciconfinder_minus-square_1608553:before {
+  content: "\e97a";
+}
+.iciconfinder_48_Calculator_106197:before {
+  content: "\e97b";
+}
+.icic_pricetag:before {
+  content: "\e97c";
+}
+.icic_shareglyph:before {
+  content: "\e97d";
+}
+.icic_formerror:before {
+  content: "\e97e";
+}
+.icic_fullstar:before {
+  content: "\e97f";
+}
+.icic_halfstar:before {
+  content: "\e980";
+}
+.icic_nostar:before {
+  content: "\e981";
+}
+.icic_passport:before {
+  content: "\e982";
+}
+.ichelp3:before {
+  content: "\e983";
+}
+.iclegal:before {
+  content: "\e984";
+}
+.icinfo3:before {
+  content: "\e985";
+}
+.icversion:before {
+  content: "\e986";
+}
+.ickbcoin:before {
+  content: "\e987";
+}
+.iclanguage:before {
+  content: "\e988";
+}
+.iclogout:before {
+  content: "\e989";
+}
+.iccredit:before {
+  content: "\e98a";
+}
+.icic_esignseal:before {
+  content: "\e98b";
+}
+.icic_paidseal:before {
+  content: "\e98c";
+}
+.icic_complete:before {
+  content: "\e98d";
+}
+.icic-referral-code:before {
+  content: "\e98e";
+}
+.icic_enter1:before {
+  content: "\e98f";
+}
+.icic_erase:before {
+  content: "\e990";
+}
+.icic_spokenlang:before {
+  content: "\e991";
+}
+.icic_loan_purpose:before {
+  content: "\e992";
+}
+.icic_registered:before {
+  content: "\e993";
+}
+.icic_amountearned:before {
+  content: "\e994";
+}
+.icic_usersubmit:before {
+  content: "\e995";
+}
+.icic_userconfirm:before {
+  content: "\e996";
+}
+.icic_transactions:before {
+  content: "\e997";
+}
+.icic_loanavailed:before {
+  content: "\e998";
+}
+.icic_rejected:before {
+  content: "\e999";
+}
+.icic_payout:before {
+  content: "\e99a";
+}
+.icic_weekly:before {
+  content: "\e99b";
+}
+.icic_invitecx:before {
+  content: "\e99c";
+}
+.icic_expand:before {
+  content: "\e99d";
+}
+.icic_contract:before {
+  content: "\e99e";
+}
+.icic_drop_up:before {
+  content: "\e99f";
+}
+.icic_drop_down:before {
+  content: "\e9a0";
+}
+.icic_back1:before {
+  content: "\e9a1";
+}
+.icic_reset:before {
+  content: "\e9a2";
+}
+.icic_copy:before {
+  content: "\e9a3";
+}
+.icic_hourglass:before {
+  content: "\e9a4";
+}
+.icic_clock1:before {
+  content: "\e9a5";
+}
+.icic_new_tag:before {
+  content: "\e9a6";
+}
+.icic_bgpolska:before {
+  content: "\e9a7";
+}
+.icic_graphicsLT:before {
+  content: "\e9a8";
+}
+.icic_graphicsRT:before {
+  content: "\e9a9";
+}
+.icic_graphicsRB:before {
+  content: "\e9aa";
+}
+.icic_graphicsLB:before {
+  content: "\e9ab";
+}
+.icic_squaredivider:before {
+  content: "\e9ac";
+}
+.icic_centergraphics:before {
+  content: "\e9ad";
+}
+.icic_living_index:before {
+  content: "\e9ae";
+}
+.icic_verify_income:before {
+  content: "\e9af";
+}
+.icic_income:before {
+  content: "\e9b0";
+}
+.icic_li_house:before {
+  content: "\e9b1";
+}
+.icic_li_loan:before {
+  content: "\e9b2";
+}
+.icic_li_parents:before {
+  content: "\e9b3";
+}
+.icic_li_vehicle:before {
+  content: "\e9b4";
+}
+.icic_li_appliance:before {
+  content: "\e9b5";
+}
+.icic_onboarded:before {
+  content: "\e9b6";
+}
+.icic_location1:before {
+  content: "\e9b7";
+}
+.ice-voucher:before {
+  content: "\e9b8";
+}
+.icic_product:before {
+  content: "\e9b9";
+}
+.icic_price2:before {
+  content: "\e9ba";
+}
+.icongoing:before {
+  content: "\e9bb";
+}
+.icml:before {
+  content: "\e9bc";
+}
+.icml2:before {
+  content: "\e9bd";
+}
+.icmla:before {
+  content: "\e9be";
+}
+.icsa:before {
+  content: "\e9bf";
+}
+.icongoing2:before {
+  content: "\e9c0";
+}
+.icpre-approved:before {
+  content: "\e9c1";
+}
+.icapproved2:before {
+  content: "\e9c2";
+}
+.icapproved:before {
+  content: "\e9c3";
+}
+.icic-stamp-closed:before {
+  content: "\e9c4";
+}
+.icic_videokyc:before {
+  content: "\e9c5";
+}
+.icic_verify_selfie:before {
+  content: "\e9c6";
+}
+.icic_box2:before {
+  content: "\e9c7";
+}
+.icic_righto:before {
+  content: "\e9c8";
+}
+.icic_lefto:before {
+  content: "\e9c9";
+}
+.icic_upo:before {
+  content: "\e9ca";
+}
+.icic_downo:before {
+  content: "\e9cb";
+}
+.icic_mailsync:before {
+  content: "\e9cc";
+}
+.icic_officemail:before {
+  content: "\e9cd";
+}
+.icic_verifyincome:before {
+  content: "\e9ce";
+}
+.icic_f16:before {
+  content: "\e9cf";
+}
+.icic_taxreturn:before {
+  content: "\e9d0";
+}
+.icic_powerbill:before {
+  content: "\e9d1";
+}
+.icic_rcbook:before {
+  content: "\e9d2";
+}
+.icic_brand_kbemi:before {
+  content: "\e9d3";
+}
+.icic_brand_flipkart:before {
+  content: "\e9d4";
+}
+.icic_brand_myntra:before {
+  content: "\e9d5";
+}
+.icic_brand_jabong:before {
+  content: "\e9d6";
+}
+.icic_brand_amazon:before {
+  content: "\e9d7";
+}
+.icic_brand_mmt:before {
+  content: "\e9d8";
+}
+.icic_brand_cleartrip:before {
+  content: "\e9d9";
+}
+.icic_brand_credr:before {
+  content: "\e9da";
+}
+.icic_brand_zefo:before {
+  content: "\e9db";
+}
+.icic_brand_upgrad:before {
+  content: "\e9dc";
+}
+.icic_brand_oyo:before {
+  content: "\e9dd";
+}
+.icic_rightg:before {
+  content: "\e9de";
+}
+.icic_leftg:before {
+  content: "\e9df";
+}
+.icic_upg:before {
+  content: "\e9e0";
+}
+.icic_downg:before {
+  content: "\e9e1";
+}
+.icic_myntra:before {
+  content: "\e9e2";
+}
+.icic_jabong:before {
+  content: "\e9e3";
+}
+.icic_reduce:before {
+  content: "\e9e4";
+}
+.icic_increase:before {
+  content: "\e9e5";
+}
+.icic_purpose2:before {
+  content: "\e9e6";
+}
+.icic_rupee_bold:before {
+  content: "\e9e7";
+}
+.icic_tagnew:before {
+  content: "\e9e8";
+}
+.icic_sal_slip:before {
+  content: "\e9e9";
+}
+.icic_pdf1:before {
+  content: "\e9ea";
+}
+.icic_power_reg_no:before {
+  content: "\e9eb";
+}
+.icic_power_service_provider:before {
+  content: "\e9ec";
+}
+.icic_vehicle_RC:before {
+  content: "\e9ed";
+}
+.icic_web_plus:before {
+  content: "\e9ee";
+}
+.icic_web_minus:before {
+  content: "\e9ef";
+}
+.icic_web_quoteopen:before {
+  content: "\e9f0";
+}
+.icic_web_quoteclose:before {
+  content: "\e9f1";
+}
+.icic_web_youtube:before {
+  content: "\e9f2";
+}
+.icic_web_more:before {
+  content: "\e9f3";
+}
+.icic_web_copyright:before {
+  content: "\e9f4";
+}
+.icic_brand_pepperfry:before {
+  content: "\e9f5";
+}
+.icic_brand_Lifestyle:before {
+  content: "\e9f6";
+}
+.icic_brand_Shopperstop:before {
+  content: "\e9f7";
+}
+.icic_brand_nykaa:before {
+  content: "\e9f8";
+}
+.icic_brand_urbanladder:before {
+  content: "\e9f9";
+}
+.icic_check_circle:before {
+  content: "\e9fa";
+}
+.icic_rupee_coin:before {
+  content: "\e9fb";
+}
+.icic_blank-circle:before {
+  content: "\e9fc";
+}
+.icic_notification:before {
+  content: "\e9fd";
+}
+.icic_notification-tng:before {
+  content: "\e9fe";
+}
+.icic_max:before {
+  content: "\e9ff";
+}
+.icic_education:before {
+  content: "\ea00";
+}
+.icic_at:before {
+  content: "\ea01";
+}
+.icic_physical:before {
+  content: "\ea02";
+}
+.icic_emandate:before {
+  content: "\ea03";
+}
+.icic_finanalysis:before {
+  content: "\ea04";
+}
+.icic_edit2:before {
+  content: "\ea05";
+}
+.icic_evoucher2:before {
+  content: "\ea06";
+}
+.icic_callback:before {
+  content: "\ea07";
+}
+.icsap:before {
+  content: "\ea08";
+}
+.ickyc2:before {
+  content: "\ea09";
+}
+.icic_notification3:before {
+  content: "\ea0a";
+}
+.icic_bank6:before {
+  content: "\ea0b";
+}
+.icic_my:before {
+  content: "\ea0c";
+}
+.icic_clear:before {
+  content: "\ea0d";
+}
+.icic_urban:before {
+  content: "\ea0e";
+}
+.icic_pf:before {
+  content: "\ea0f";
+}
+.icic_nykaa:before {
+  content: "\ea10";
+}
+.icic_sstop:before {
+  content: "\ea11";
+}
+.icic_lstyle:before {
+  content: "\ea12";
+}
+.icoffers_home:before {
+  content: "\ea13";
+  color: #797e96;
+}
+.icoffers:before {
+  content: "\ea14";
+  color: #797e96;
+}
+.icretrynach:before {
+  content: "\ea15";
+}
+.ichelp1:before {
+  content: "\ea16";
+}
+.icrefer_glyph:before {
+  content: "\ea17";
+}
+.icrefer_eng:before {
+  content: "\ea18";
+}
+.icrefer_hindi:before {
+  content: "\ea19";
+}
+.icrefer_kannada:before {
+  content: "\ea1a";
+}
+.icrefer_telugu:before {
+  content: "\ea1b";
+}
+.icrefer_tamil:before {
+  content: "\ea1c";
+}
+.icearned:before {
+  content: "\ea1d";
+  color: #5c6275;
+}
+.icdownload_arrow:before {
+  content: "\ea1e";
+}
+.icdownloadbox:before {
+  content: "\ea1f";
+}
+.icuploadbox:before {
+  content: "\ea20";
+}
+.icshar:before {
+  content: "\ea21";
+}
+.iclang:before {
+  content: "\ea22";
+}
+.icrefer_new:before {
+  content: "\ea23";
+}
+.icombrelane:before {
+  content: "\ea25";
+}
+.iczoomin:before {
+  content: "\ea26";
+}
+.icdriefcase:before {
+  content: "\ea27";
+}
+.icmancompany:before {
+  content: "\ea24";
+}
+.iccurefit:before {
+  content: "\ea28";
+}
+.icfernsnpetals:before {
+  content: "\ea29";
+}
+.icpaytminsider:before {
+  content: "\ea2a";
+}
+.icmobauth:before {
+  content: "\ea2b";
+}
+.iceconnect:before {
+  content: "\ea2c";
+}
+.icaddress:before {
+  content: "\ea2d";
+}
+.iclinked:before {
+  content: "\ea2e";
+}
+.ickbcoupon:before {
+  content: "\ea2f";
+}
+.icrefer_new_botab:before {
+  content: "\ea30";
+}
+.iccalendar:before {
+  content: "\ea31";
+}
+.iccalc:before {
+  content: "\ea32";
+}
+.icvkyc:before {
+  content: "\ea33";
+}
+.icpermadd:before {
+  content: "\ea34";
+}
+.iclink:before {
+  content: "\ea35";
+}
+.icecom_scrap:before {
+  content: "\ea36";
+}
+.icpdfPD:before {
+  content: "\ea37";
+}
+.icsalary_slip:before {
+  content: "\ea38";
+}
+.icmobile_verify:before {
+  content: "\ea39";
+}
+.icpaperless:before {
+  content: "\ea3a";
+}
+.icmaskedadhr:before {
+  content: "\ea3b";
+}
+.icdigilocker:before {
+  content: "\ea3c";
+}
+.iccredometer:before {
+  content: "\ea3d";
+}
+.icf162:before {
+  content: "\ea3e";
+}
+.icpdfPD2:before {
+  content: "\ea3f";
+}
+.icphysical:before {
+  content: "\ea40";
+}
+.icmailsync2:before {
+  content: "\ea41";
+}
+.icemandate2:before {
+  content: "\ea42";
+}
+.iclink2:before {
+  content: "\ea43";
+}
+.icofficemail2:before {
+  content: "\ea44";
+}
+.icmobile_verify2:before {
+  content: "\ea45";
+}
+.icrcbook2:before {
+  content: "\ea46";
+}
+.icpdfPD3:before {
+  content: "\ea47";
+}
+.icverifyincome2:before {
+  content: "\ea48";
+}
+.ictaxreturn2:before {
+  content: "\ea49";
+}
+.icecomthin:before {
+  content: "\ea4a";
+}
+.icrekyc:before {
+  content: "\ea4b";
+}
+.icno-train:before {
+  content: "\ea4c";
+}
+.icotp2:before {
+  content: "\ea4d";
+}
+.icwallet-pr:before {
+  content: "\ea4e";
+}
+.icwallet-pd:before {
+  content: "\ea4f";
+}
+.icsmall_insidebox:before {
+  content: "\ea50";
+}
+.icsmall_info4:before {
+  content: "\ea51";
+}
+.icsmall_linkkk:before {
+  content: "\ea52";
+}
+.icsmall_redeem:before {
+  content: "\ea53";
+}
+.icsmall_tandc:before {
+  content: "\ea54";
+}
+.icsmall_expiry:before {
+  content: "\ea55";
+}
+.icckt:before {
+  content: "\ea56";
+}
+.icvkyc_schedule:before {
+  content: "\ea57";
+}
+.icnew2:before {
+  content: "\ea58";
+}
+.icunlock_2:before {
+  content: "\ea59";
+}
+.iclock_2:before {
+  content: "\ea5a";
+}
+.icremaining:before {
+  content: "\ea5b";
+}
+.icused:before {
+  content: "\ea5c";
+}
+.iccal_basic:before {
+  content: "\ea5d";
+}
+.iccal_overdue:before {
+  content: "\ea5e";
+}
+.iccal_tenure:before {
+  content: "\ea5f";
+}
+.iccals2:before {
+  content: "\ea60";
+}
+.iccheck_5:before {
+  content: "\ea61";
+}
+.iccross_6:before {
+  content: "\ea62";
+}
+.icecom_chkout-copy:before {
+  content: "\ea63";
+}
+.icloan_cash:before {
+  content: "\ea64";
+}
+.icloan4:before {
+  content: "\ea65";
+}

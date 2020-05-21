@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<InformationBox /> should match the snapshot 1`] = `
+<div
+  class="InformationBox__LabelCon-sc-1818564-0 fIaWGx"
+  data-reactroot=""
+>
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <img
+            alt="Info image"
+            src="IMAGE_MOCK"
+          />
+        </td>
+        <td>
+          <p
+            class="InformationBox__InfoP-sc-1818564-1 dwSvgw"
+          >
+            <span>
+              Important Instructions
+            </span>
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CautionInfo /> should match the snapshot 1`] = `
+<div
+  class="CautionInfo__LabelCon-sc-1x72tc4-0 eiwuiz"
+  data-reactroot=""
+>
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <img
+            alt="Info image"
+            src="IMAGE_MOCK"
+          />
+        </td>
+        <td>
+          <p
+            class="CautionInfo__InfoP-sc-1x72tc4-1 hKrsyG"
+          >
+            <span>
+              Important Instructions
+            </span>
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
