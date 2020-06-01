@@ -1,0 +1,185 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button- default props case:it works 1`] = `
+<button
+  className="Button__Btn-sc-6xkn6k-0 dQsuEO"
+  disabled={false}
+  fontSize=""
+/>
+`;
+
+exports[`Button- for disabled button , BtnText and KB Theme :it works 1`] = `
+<button
+  className="Button__Btn-sc-6xkn6k-0 cIcvnr"
+  disabled={true}
+  fontSize=""
+>
+  OK
+</button>
+`;
+
+exports[`Button- for disabled button , BtnText and KB Theme :it works 2`] = `
+<button
+  className="Button__Btn-sc-6xkn6k-0 biJSlF"
+  disabled={true}
+  fontSize=""
+>
+  OK
+</button>
+`;
+
+exports[`Button- for disabled button and, BtnText KZ Theme:it works 1`] = `
+<button
+  className="Button__Btn-sc-6xkn6k-0 cIcvnr"
+  disabled={true}
+  fontSize=""
+>
+  OK
+</button>
+`;
+
+exports[`Button- for disabled button and, BtnText KZ Theme:it works 2`] = `
+<button
+  className="Button__Btn-sc-6xkn6k-0 biJSlF"
+  disabled={true}
+  fontSize=""
+>
+  OK
+</button>
+`;
+
+exports[`Button- for fontSize , BtnText and KB Theme :it works 1`] = `
+<button
+  className="Button__Btn-sc-6xkn6k-0 fcvuTn"
+  disabled={false}
+  fontSize="1.5em"
+>
+  OK
+</button>
+`;
+
+exports[`Button- for fontSize and, BtnText KZ Theme:it works 1`] = `
+<button
+  className="Button__Btn-sc-6xkn6k-0 fcvuTn"
+  disabled={false}
+  fontSize="1.5em"
+>
+  OK
+</button>
+`;
+
+exports[`Button- for isUPI , BtnText and KB Theme :it works 1`] = `
+<button
+  className="Button__Btn-sc-6xkn6k-0 jRdRuO"
+  disabled={false}
+  fontSize=""
+>
+  OK
+</button>
+`;
+
+exports[`Button- for isUPI and, BtnText KZ Theme:it works 1`] = `
+<button
+  className="Button__Btn-sc-6xkn6k-0 jRdRuO"
+  disabled={false}
+  fontSize=""
+>
+  OK
+</button>
+`;
+
+exports[`Button- for loading , BtnText and KB Theme :it works 1`] = `
+<button
+  className="Button__Btn-sc-6xkn6k-0 kgOxHe"
+  disabled={false}
+  fontSize=""
+>
+  OK
+</button>
+`;
+
+exports[`Button- for loading and, BtnText KZ Theme:it works 1`] = `
+<button
+  className="Button__Btn-sc-6xkn6k-0 kgOxHe"
+  disabled={false}
+  fontSize=""
+>
+  OK
+</button>
+`;
+
+exports[`Button- for marginBottom , BtnText and KB Theme :it works 1`] = `
+<button
+  className="Button__Btn-sc-6xkn6k-0 UzeCn"
+  disabled={false}
+  fontSize=""
+>
+  OK
+</button>
+`;
+
+exports[`Button- for marginBottom and, BtnText KZ Theme:it works 1`] = `
+<button
+  className="Button__Btn-sc-6xkn6k-0 UzeCn"
+  disabled={false}
+  fontSize=""
+>
+  OK
+</button>
+`;
+
+exports[`Button- for noBorderRadius , BtnText and KB Theme :it works 1`] = `
+<button
+  className="Button__Btn-sc-6xkn6k-0 iolKqX"
+  disabled={false}
+  fontSize=""
+>
+  OK
+</button>
+`;
+
+exports[`Button- for noBorderRadius and, BtnText KZ Theme:it works 1`] = `
+<button
+  className="Button__Btn-sc-6xkn6k-0 iolKqX"
+  disabled={false}
+  fontSize=""
+>
+  OK
+</button>
+`;
+
+exports[`Button- for secondary button , BtnText and KB Theme :it works 1`] = `
+<button
+  className="Button__Btn-sc-6xkn6k-0 dVSXfg"
+  disabled={false}
+  fontSize=""
+>
+  OK
+</button>
+`;
+
+exports[`Button- for secondary button and KB Theme :it works 1`] = `
+<button
+  className="Button__Btn-sc-6xkn6k-0 dVSXfg"
+  disabled={false}
+  fontSize=""
+/>
+`;
+
+exports[`Button- for secondary button and KZ Theme:it works 1`] = `
+<button
+  className="Button__Btn-sc-6xkn6k-0 dVSXfg"
+  disabled={false}
+  fontSize=""
+/>
+`;
+
+exports[`Button- for secondary button and, BtnText KZ Theme:it works 1`] = `
+<button
+  className="Button__Btn-sc-6xkn6k-0 dVSXfg"
+  disabled={false}
+  fontSize=""
+>
+  OK
+</button>
+`;
