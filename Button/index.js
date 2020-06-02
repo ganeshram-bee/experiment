@@ -1,7 +1,7 @@
 import React from 'react';
 import styled, { keyframes } from 'styled-components';
 import PropTypes from 'prop-types';
-import WithThemeComponent from '@bit/finnovation.kb-dev.with-theme-component';
+import WithThemeComponent from '@bit/ganeshram-bee.experiment.with-theme-component';
 
 const FlipAnimation = keyframes`
   0% {
