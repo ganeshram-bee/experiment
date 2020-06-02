@@ -65,7 +65,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "7.4.3",
-    "@bit/ganeshram-bee.experiment.with-theme-component": "0.0.14",
+    "@bit/ganeshram-bee.experiment.with-theme-component": "0.0.26",
     "chalk": "2.4.2",
     "compression": "1.7.4",
     "connected-react-router": "6.4.0",
