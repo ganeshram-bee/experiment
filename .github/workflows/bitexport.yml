@@ -33,10 +33,16 @@ jobs:
         node-version: '9.4.0'
     - name: Check Node version is 9.4.0 or not
       run: node -v && npm -v
+      
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - name: "Clone repository" 
+      uses: actions/checkout@v2
+
     - name: "Is repo cloned?"
       run: |
         pwd
         ls 
+
     # Install dependencies and build app
     - name: Install Dependencies
       run: npm install
