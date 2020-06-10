@@ -56,7 +56,8 @@ jobs:
         bit config 
         bit -v
         bit status
-        bit test
+        bit import
         ls .git/bit/components/
+        bit test
       #  bit tag -a
       #  bit export $BIT_COLLECTION
