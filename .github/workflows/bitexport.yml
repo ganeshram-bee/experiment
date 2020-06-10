@@ -41,7 +41,7 @@ jobs:
     - name: "Is repo cloned?"
       run: |
         pwd
-        ls 
+        ls -a
 
     # Install dependencies and build app
     - name: Install Dependencies
