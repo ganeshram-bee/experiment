@@ -33,8 +33,8 @@ jobs:
         node-version: '9.4.0'
     - name: Check Node version is 9.4.0 or not
       run: node -v && npm -v
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      uses: actions/checkout@v2
 
     - name: "Is repo cloned?"
     - run: |
