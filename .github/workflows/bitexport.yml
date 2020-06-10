@@ -23,6 +23,7 @@ jobs:
     steps:
     - name: Basic commands
       run: |
+        system_profiler SPSoftwareDataType
         echo "Can you see this?" > file.txt
         pwd
         ls
