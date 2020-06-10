@@ -34,13 +34,18 @@ jobs:
     - name: Check Node version is 9.4.0 or not
       run: node -v && npm -v
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    # - uses: actions/checkout@v2
+    - uses: actions/checkout@v2
 
-    # # Install dependencies and build app
-    # - name: Install Dependencies
-    #   run: npm install
-    # - name: Install bit-bin
-    #   run: sudo npm install bit-bin -g
+    - name: "Is repo cloned?"
+    - run: |
+        pwd
+        ls 
+
+    # Install dependencies and build app
+    - name: Install Dependencies
+      run: npm install
+    - name: Install bit-bin
+      run: npm install bit-bin -g
     # - name: Bit tag & Bit export
     #   run: |
     #     bit config set analytics_reporting false
