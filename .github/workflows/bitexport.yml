@@ -21,14 +21,16 @@ jobs:
       BIT_COLLECTION: ${{ secrets.BIT_COLLECTION }}
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    - name: Install Node version 9.4.0 and other commands
+    - name: Basic commands
       run: |
-        nvm --version
-        nvm install v9.4.0
         lsb_release -a
         echo "Can you see this?" > file.txt
         pwd
         ls
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '9.4.0'
     - name: Check Node version is 9.4.0 or not
       run: node -v && npm -v
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
